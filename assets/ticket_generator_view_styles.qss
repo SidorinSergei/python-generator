@@ -1,0 +1,57 @@
+
+QLabel {
+    font-weight: bold;
+    color: gray;
+}
+
+QCheckBox {
+    font-weight: bold;
+    color: gray;
+}
+
+QSpinBox {
+    color: #e0e0e0;
+}
+
+QWidget {
+    background-color: #151517;
+}
+
+#app_title {
+    font-size: 27px;
+    color: #e0e0e0;
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+
+#select_button {
+    background-color: transparent;
+    color: #0a83ff;
+    border: none;
+}
+
+#select_button:pressed {
+    color: #1070cb;
+}
+
+#generate_button {
+    font-weight: bold;
+    background-color: #0a83ff;
+    color: white;
+    border: none;
+    border-radius: 5;
+}
+
+#generate_button:pressed {
+    background-color: #1070cb;
+}
+
+#dev_label {
+    color: gray;
+    font-size: 10px;
+    font-weight: normal;
+}
+
+#lang_button {
+    border: none;
+}
